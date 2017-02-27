@@ -9,7 +9,7 @@ RUN INSTRUCTION
 
 or  
 
-[Click!](https://kwonjh90.github.io/FEND-ArcadeGame/)
+[Click!](https://kwonjh90.github.io/GemCollection/)
 
 GAME INSTRUCTIONS
 ------------
