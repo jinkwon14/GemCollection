@@ -217,7 +217,7 @@ var Engine = (function(global) {
         'images/Jelly_back.png',
         'images/Jelly_front.png',
         'images/enemy-bug.png',
-        'images/enemy_front.png',
+        'images/Jelly_en.png',
         'images/Gem_Blue.png',
         'images/Gem_Green.png',
         'images/Gem_Orange.png',
