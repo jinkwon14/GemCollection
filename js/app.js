@@ -20,7 +20,7 @@ Heart.prototype.render = function() {
 // Initialize Enemy class
 var Enemy = function() {
     // set enemy image
-    this.sprite = 'images/Enemy_front.png';
+    this.sprite = 'images/enemy_front.png';
     // set initial positions, enemy.x and enemy.y
     this.enemy_random_spawn();
     // set enemy speed
